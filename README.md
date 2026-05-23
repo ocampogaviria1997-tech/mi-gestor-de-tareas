@@ -59,7 +59,7 @@ cd mi_gestor_tareas
 **2. Ejecutar el script**
 
 ```bash
-python3 mi_gestor_tareas.py
+python3 mi-gestor-de-tareas.py
 ```
 
 > En Windows puedes usar `python mi-gestor-de-tareas.py`
