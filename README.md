@@ -52,7 +52,7 @@ python3 --version
 **1. Clonar el repositorio**
 
 ```bash
-git clone https://github.com/ocampogaviria1997-tech/mi-gestor-tareas.git
+git clone https://github.com/ocampogaviria1997-tech/mi-gestor-de-tareas.git
 cd mi_gestor_tareas
 ```
 
@@ -62,7 +62,7 @@ cd mi_gestor_tareas
 python3 mi_gestor_tareas.py
 ```
 
-> En Windows puedes usar `python mi-gestor-tareas.py`
+> En Windows puedes usar `python mi-gestor-de-tareas.py`
 
 ---
 
